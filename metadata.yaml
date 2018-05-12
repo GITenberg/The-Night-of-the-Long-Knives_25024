@@ -1,0 +1,42 @@
+_repo: The-Night-of-the-Long-Knives_25024
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Finlay, Virgil
+    alias: Finlay
+    birthdate: 1914
+    deathdate: 1971
+    gutenberg_agent_id: '26786'
+    url: http://www.gutenberg.org/2009/agents/26786
+    wikipedia: http://en.wikipedia.org/wiki/Virgil_Finlay
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leiber, Fritz
+    alias: Leiber, Fritz Reuter
+    birthdate: 1910
+    deathdate: 1992
+    gutenberg_agent_id: '25421'
+    url: http://www.gutenberg.org/2009/agents/25421
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Leiber
+description: They were two desperate scavengers in a no-man's land of radiation and
+  death. Living in a kill or be killed world. Can they fin a new life and hope? A
+  grim, grisly post-apocalypse story.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'Science fiction, American'
+- !lcsh 'Post-apocalyptic fiction'
+- !lcc 'PS'
+title: The Night of the Long Knives
+url: http://www.gutenberg.org/ebooks/25024
